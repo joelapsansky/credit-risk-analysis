@@ -3,7 +3,7 @@ Finished Deliverables:
 [Credit Risk Resampling](/credit_risk_resampling.ipynb)    
 [Credit Risk Ensemble](/credit_risk_ensemble.ipynb)   
 ## Overview
-Given a credit card dataset, use different techniques and algorithms to predict credit risk.  Then, evaluate the performance of the different machine learning models.
+Given a credit card dataset, use different techniques and algorithms to predict credit risk.  Then, evaluate the performance of each machine learning model.
 ## Results
 Ensemble learners tended to give better all-around scores especially the Easy Ensemble AdaBoost Classifier.  
 
