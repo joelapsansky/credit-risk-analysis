@@ -16,10 +16,10 @@ Ensemble learners tended to give better all-around scores especially the Easy En
 
   
 ### Precision and Recall Scores
-* All oversampling and undersampling methods return a very low precision score  
-* SMOTE oversampling and undersampling had recall scores below 70%, but combination sampling pushed it above 75%  
+* All oversampling and undersampling methods returned a very low precision score  
+* SMOTE oversampling and undersampling had recall scores below 70%, but combination sampling raised the score above 75%  
 * The balanced random forest classifer ensemble learner returned a low precision score (3%)
-     - The recall score is 70% for high-risk applicants 
+     - The recall score was 70% for high-risk applicants 
   
 ![Resampling Class Report](/Images/resampling_class_report.png "Resampling Class Report")  
   
