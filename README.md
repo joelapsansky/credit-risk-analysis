@@ -12,7 +12,7 @@ Ensemble learners tended to give better all-around scores especially the Easy En
 * The naive random oversampling method yielded a balanced accuracy score of 66%  
      - SMOTE oversampling and and undersampling were worse than this
      - Combination using SMOTEEN perfermed slighly better yielding a score of 68%  
-* The balanced random forest classifer ensemble learner performed much better returning a balanced acuracy score of 79%  
+* The balanced random forest classifer ensemble learner performed much better than the previous 4 models returning a balanced acuracy score of 79%  
 
   
 ### Precision and Recall Scores
