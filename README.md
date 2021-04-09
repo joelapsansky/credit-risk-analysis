@@ -24,7 +24,7 @@ Ensemble learners tended to give better all-around scores especially the Easy En
 ![Resampling Class Report](/Images/resampling_class_report.png "Resampling Class Report")  
   
 * The Easy Ensemble AdaBoost Classifier performed very well overall with a balanced accuracy score of 93% and a recall of 92%
-     - Its precision is still low at 9%, but far higher than the next best for the other 5 models (3%)  
+     - Its precision was still low at 9%, but far higher than the next best for the other 5 models (3%)  
   
 ![Ensemble Class Report](/Images/ensemble_screenshot.png "Ensemble Class Report")  
     
